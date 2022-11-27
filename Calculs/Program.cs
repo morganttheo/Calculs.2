@@ -20,6 +20,8 @@ namespace Calculs
 
             // boucle sur le menu
             choix = 1;
+            Console.Write("changement de code");
+            Console.ReadLine();
             while (choix != 0)
             {
                 // affiche le menu et saisi le choix
